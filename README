@@ -1,1 +1,10 @@
-TY core — Small PHP Framework
+TY cp — Small PHP CMS
+develop by Toshi Young
+
+Steps:
+1) MySQL Class
+2) Structure Class
+3) Login Class
+4) Control Panel
+
+25/06/2012
